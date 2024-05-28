@@ -1,0 +1,5 @@
+name = "STCEJuliaRegistry"
+uuid = "ae0c9247-a314-460a-93eb-ecb80784a8ea"
+repo = "git@github.com:STCE-at-RWTH/STCEJuliaRegistry.git"
+
+[packages]
