@@ -5,8 +5,12 @@ Tullio = "bc48ee85-29a4-5162-ae0b-a64e1601d4bc"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 UnitfulChainRules = "f31437dd-25a7-4345-875f-756556e6935d"
 
-["0-0.1.2"]
+["0 - 0.1.2"]
 LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
 
-["0.3-0"]
+["0.3 - 0"]
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+["0.4 - 0"]
+Accessors = "7d9f7c33-5ae7-4f3b-8dc6-eff91059b697"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
