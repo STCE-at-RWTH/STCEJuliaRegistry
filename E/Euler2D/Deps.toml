@@ -17,3 +17,9 @@ ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 
 ["0.5 - 0"]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+
+["0.5.3 - 0"]
+DifferentiationInterface = "a0c0ee7d-e4b9-4e03-894e-1c5f64a51d63"
+OhMyThreads = "67456a42-1dca-4109-a031-0a68de7e3ad5"
+PlanePolygons = "f937978b-597e-4162-b50e-ad07b6cf7ab2"
+SimpleNonlinearSolve = "727e6d20-b764-4bd8-a329-72de5adea6c7"
