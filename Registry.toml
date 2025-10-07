@@ -5,4 +5,5 @@ repo = "git@github.com:STCE-at-RWTH/STCEJuliaRegistry.git"
 [packages]
 77d2bf28-a3e9-4b9c-9fcf-b85f74cc8a50 = { name = "ShockwaveProperties", path = "S/ShockwaveProperties" }
 c24a2923-03cb-4692-957a-ccd31f2ad327 = { name = "Euler2D", path = "E/Euler2D" }
+f1de6737-2331-4f40-83c2-33cf2af9fc78 = { name = "SimpleIntegration", path = "S/SimpleIntegration" }
 f937978b-597e-4162-b50e-ad07b6cf7ab2 = { name = "PlanePolygons", path = "P/PlanePolygons" }
