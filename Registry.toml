@@ -1,6 +1,6 @@
 name = "STCEJuliaRegistry"
 uuid = "ae0c9247-a314-460a-93eb-ecb80784a8ea"
-repo = "git@github.com:STCE-at-RWTH/STCEJuliaRegistry.git"
+repo = "https://github.com/STCE-at-RWTH/STCEJuliaRegistry.git"
 
 [packages]
 77d2bf28-a3e9-4b9c-9fcf-b85f74cc8a50 = { name = "ShockwaveProperties", path = "S/ShockwaveProperties" }

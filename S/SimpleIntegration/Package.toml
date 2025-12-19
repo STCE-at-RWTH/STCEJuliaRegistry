@@ -1,3 +1,3 @@
 name = "SimpleIntegration"
 uuid = "f1de6737-2331-4f40-83c2-33cf2af9fc78"
-repo = "git@github.com:STCE-at-RWTH/SimpleIntegration.jl"
+repo = "https://github.com/STCE-at-RWTH/SimpleIntegration.jl"
