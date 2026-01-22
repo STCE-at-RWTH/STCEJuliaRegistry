@@ -2,3 +2,8 @@
 DifferentiationInterface = "a0c0ee7d-e4b9-4e03-894e-1c5f64a51d63"
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 SimpleIntegration = "f1de6737-2331-4f40-83c2-33cf2af9fc78"
+
+["0.1.2-0"]
+LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Tullio = "bc48ee85-29a4-5162-ae0b-a64e1601d4bc"
