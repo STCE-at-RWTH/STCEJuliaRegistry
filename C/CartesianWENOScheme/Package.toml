@@ -1,3 +1,3 @@
 name = "CartesianWENOScheme"
 uuid = "aed82c08-40dd-4eeb-8152-e9431e059f55"
-repo = "git@gitlab.stce.rwth-aachen.de:fleming/CartesianWENOScheme.jl.git"
+repo = "https://gitlab.stce.rwth-aachen.de/fleming/CartesianWENOScheme.jl.git"
