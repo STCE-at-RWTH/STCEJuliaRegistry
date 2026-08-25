@@ -3,6 +3,7 @@ uuid = "ae0c9247-a314-460a-93eb-ecb80784a8ea"
 repo = "https://github.com/STCE-at-RWTH/STCEJuliaRegistry.git"
 
 [packages]
+5b001136-ea63-46bd-ae4b-21043feb7847 = { name = "STCERetreat2026", path = "S/STCERetreat2026" }
 77d2bf28-a3e9-4b9c-9fcf-b85f74cc8a50 = { name = "ShockwaveProperties", path = "S/ShockwaveProperties" }
 aed82c08-40dd-4eeb-8152-e9431e059f55 = { name = "CartesianWENOScheme", path = "C/CartesianWENOScheme" }
 c24a2923-03cb-4692-957a-ccd31f2ad327 = { name = "Euler2D", path = "E/Euler2D" }
