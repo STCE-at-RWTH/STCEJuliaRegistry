@@ -1,0 +1,3 @@
+name = "DiscreteGeneralizedCLAWControl"
+uuid = "164d917d-61fd-4d6a-910e-bdd0648da62a"
+repo = "https://gitlab.stce.rwth-aachen.de/fleming/DiscreteGeneralizedCLAWControl.jl"

@@ -1,0 +1,12 @@
+[0]
+Accessors = "7d9f7c33-5ae7-4f3b-8dc6-eff91059b697"
+CartesianWENOScheme = "aed82c08-40dd-4eeb-8152-e9431e059f55"
+DifferentiationInterface = "a0c0ee7d-e4b9-4e03-894e-1c5f64a51d63"
+FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+Integrals = "de52edbc-65ea-441a-8357-d3a637375a31"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
+OhMyThreads = "67456a42-1dca-4109-a031-0a68de7e3ad5"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Tullio = "bc48ee85-29a4-5162-ae0b-a64e1601d4bc"
