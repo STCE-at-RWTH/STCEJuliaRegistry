@@ -10,3 +10,7 @@ LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
 OhMyThreads = "67456a42-1dca-4109-a031-0a68de7e3ad5"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 Tullio = "bc48ee85-29a4-5162-ae0b-a64e1601d4bc"
+
+["0.1.1-0"]
+DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
